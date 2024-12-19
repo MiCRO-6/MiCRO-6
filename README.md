@@ -1,7 +1,6 @@
 ## MiCRO &nbsp;
 
-Yo! I'm Kevin, A Technical Support and A Web Developer from the Philippines. I graduated at Bulacan State University last July 2022 with a Bachelor's degree in Industrial Technology majoring in Computer Technology. During my spare time I self-study Web Development :man_teacher:
-
+I'm a Technical Support Specialist and Web Developer from the Philippines. I graduated from Bulacan State University in July 2022 with a Bachelor's degree in Industrial Technology, majoring in Computer Technology. During my spare time, I self-study web development. :man_teacher:
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 
