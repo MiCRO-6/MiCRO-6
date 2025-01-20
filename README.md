@@ -3,11 +3,6 @@
 I'm a Technical Support Specialist and Web Developer from the Philippines. I graduated from Bulacan State University in July 2022 with a Bachelor's degree in Industrial Technology, majoring in Computer Technology. During my spare time, I self-study web development. :man_teacher:
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
-### 📚 I’m currently learning
-How to program using Php
-
-
-
 ### 💻 I'm using these languages and tools
 <p align="left"><a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
