@@ -3,21 +3,6 @@
 I'm a Technical Support Specialist and Web Developer from the Philippines. I graduated from Bulacan State University in July 2022 with a Bachelor's degree in Industrial Technology, majoring in Computer Technology. During my spare time, I self-study web development. :man_teacher:
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
-
-
-
-
-### 🎓 Education
-<p align="center">
- Bulacan State University
-<br>
- Bachelor of Industrial Technology 
- Major in Computer Technology
- <br>
- cum laude
- <br>
- 2019-2022</p>
-
 ### 📚 I’m currently learning
 How to program using Php
 
